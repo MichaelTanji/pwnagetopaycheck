@@ -1,4 +1,6 @@
-# Big Boy/Girl Shoes
+# CONCLUSIONS
+
+## Time to Put on Your Big Boy/Girl Shoes
 
 If, after going through all of the above, you’re confident in your ability to do what is necessary to succeed – or even if you’re not entirely sure and you want to try anyway – the final lesson, and arguably the most important one is this: 
 
