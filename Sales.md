@@ -10,6 +10,8 @@ The problem of course is that there is no business without sales. Going back to 
 
 You know what I mean. You know *who* I mean. There is a difference between communicating a value proposition and working a process, and all the things you associate – and dispise – about sales.
 
+Having said that, there are a few things you need to learn from salespeople that will help you achieve your goals.
+
 ## Understand Who Makes Decisions
 
 You've built something cool. You've told all your friends in 20 different companies all about it. They all love it. That's 20 customers on launch day, right?
