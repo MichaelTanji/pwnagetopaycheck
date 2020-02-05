@@ -18,11 +18,11 @@ You've built something cool. You've told all your friends in 20 different compan
 
 Wrong.
 
-Your elegent solution might impress your fellow nerds, but do you know what nerds don't do? Nerds don't write checks. Executives write checks. Maybe managers write (small) checks. The people who love your product and the people who will pay for your product are almost always two different people.
+Your elegent solution might impress your fellow nerds, but do you know what nerds don't do? **Nerds don't write checks.** Executives write checks. Maybe managers write (small) checks. The people who love your product and the people who will pay for your product are almost always two different people.
 
 It gets worse.
 
-The decision to buy your solution might not rest in the hands of one person. Does your solution need some kind of access to network resources? Well that means IT has to be involved (pro tip: in a lot of companies Security is under IT, or separate from IT, or some other configuration). Now we're up to two people who may be involved in writing that check. Is there some regulatory issue your solution addresses? Well that's at least one (compliance dude) and probably two (legal) that will be involved. 
+The decision to buy your solution might not rest in the hands of one person. Does your solution need some kind of access to network resources? Well that means IT has to be involved (pro tip: in a lot of companies Security is under IT, or separate from IT, or some other configuration). Now we're up to two people who may be involved in writing that check. Is there some regulatory issue your solution addresses? Well that's at least one (compliance dude) and probably two (legal) more that will be involved. You know what most of those people don't understand? Security.
 
 ## Understand How Decisions Are Made
 
