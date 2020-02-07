@@ -30,10 +30,14 @@ Fools! Your idea is soooo genius that you can’t believe no one has thought of 
 
 Wrong answer.
 
-You’re looking at hte problem from a hacker's perspective and not a businessperson’s perspective. From a business perspective the prospect of no competition is not merely scary, its stupid. There is, to coin a phrase, nothing new under the sun. **The odds that you’ve come up with something truly novel is very close to zero.** Its not impossible, but unlikely. On the off chance that you have come up with something novel, you have to ask yourself a couple of important questions:
+You’re looking at the problem from a hacker's perspective and not a businessperson’s perspective. From a business perspective the prospect of no competition is not merely scary, its stupid. There is, to coin a phrase, nothing new under the sun. **The odds that you’ve come up with something truly novel is very close to zero.** Its not impossible, but highly unlikely. 
 
-* Is this sufficiently weird? Your customers have budgets. They spend those budgets in accordance with certain pre-defined needs, like end-point protection or network monitoring. If your solution doesn’t fit neatly into those budget categories, no one is spending money on you.
-* Is this a group effort? In most organizations of any size, security has actually very little control over the underlying technology used by the company. If you need to access a span port to make your solution work, you need to have at least two conversations: one with the security nerds, and one with the IT people (the latter might not really like or want to help the former).
-* Is there no competition becuase you're a genius who can see into the future, or because there are other factors that preclude this approach being viable? For example: is your approach to addressing a security problem require fiddling with the kernel? And does that fiddling sometimes blue screen an endpoint? Yeah, no one else is selling that because no one is buying that.
+Business people like competition because it shows there is a market. A market tells you how much people are spending on the issue you're trying to solve. A market of X size, Y of which they may be able to claim if your solution is sufficiently superior to the others. Competition tells the business person how much money they could potentially make, which if you remember is the whole *raison d'etre.* 
+
+*"But what about...?"*
+
+* What? Uber? Uber's competition was taxis, a thing that existed for decades.
+* WeWork? WeWork's competition was a handful of national, and dozens of smaller outfits that did the same thing (minus the cult).
+* Your favorite application? I guarantee if you do your homework you'll find that there was at least one other app that came before your favoriate app, and then competition did its thing.
 
 A lack of competition isn’t a reflection of your ingenuity, it’s a recognition that you’re facing an uphill battle of epic proportions that is almost certainly doomed to failure. 
