@@ -13,17 +13,21 @@ Marketing is the art and science of getting people to understand what you’re d
 
 ## Message
 
-What problem do you solve? Why you over the competition? Think about all the question you ask when you're deciding to make a major purchase; that's what everyone else is going to be asking you. You need to have answers. Compelling answers. 
+What problem do you solve? Why choose you over the competition? Think about all the questions you ask when you're deciding to make a major purchase; that's what everyone else is going to be asking you. You need to have answers. Compelling answers. 
+
+*But I hate hype and buzzwords.*
+
+Nobody says you have to like them. Nobody says you have to **use** them. The only thing that matters is ensuring that your message gets through. If you're selling to an unsophisticated audience, it doesn't make sense to get pedantic. If everyone you talk to say "cybersecurity" and it makes you cringe, suck it up. *You have to communicate in the language of your customers.* Picking a fight or pulling a Poindexter about language is a sure-fire way to ensure you never get a chance to make your pitch.
 
 ## Medium
 
 ### Website
 
-You need a website. It doesn't have to have all the bells and whistles, but it needs to present your message, demonstrate (to a degree) how what you're offering works, and attempt to compel visitors to act (call to action). 
+You need a website. It doesn't have to have all the bells and whistles, but it needs to present your message, demonstrate (to a degree) how what you're offering works, and attempt to compel visitors to act (call to action). When they are done working through your site they should feel like, "yeah, I need to push that button to learn more."
 
 *What about pricing?*
 
-It depends on what you're offering, but I think we're all fans of listing pricing up front. Is there anything more annoying than looking for pricing and being told 'call us'? You know what that means: talking to a sales guy. Maybe there is no way around that. Maybe what you're offering is fairly complex and it requires a high-touch approach, which is totally legit. But not putting pricing up probably hurts more than it helps.
+It depends on what you're offering, but I think we're all fans of listing pricing up front. Is there anything more annoying than looking for pricing and being told 'call us'? You know what that means: talking to a sales guy. Maybe there is no way around that. Maybe what you're offering is fairly complex and it requires a high-touch approach, which is totally legit. But not putting pricing up to some degree hurts more than it helps.
 
 ### Social Media 
 
@@ -31,7 +35,7 @@ Is social media going to be a part of your marketing efforts? You need to do you
 
 ### Collateral
 
-Fancy word for paper brochures or "slicks." The messaging and imagery of your website, condensed and reformated for a physical form factor. Some people like paper. Especially at a conference (see below) they might not have time to talk one-on-one and want to review what you're doing later. 
+Fancy word for paper brochures or "slicks" (because of the type of paper they're printed on). The messaging and imagery of your website, condensed and reformated for a physical form factor. Some people like paper. Especially at a conference (see below) they might not have time to talk one-on-one and want to review what you're doing later. They will almost certainly throw it away, so make sure you are always providing links or serving up addresses so people know where to go online after they've put your slick in the circular file.
 
 ### What About Conferences?
 
@@ -42,6 +46,10 @@ The problem with security cons is that in a convention center filled with hundre
 To this day I have no idea what the name of the company was, or what their product did. Go ahead, put a gun to my head, I couldn’t do it. What was the point? They had the money and they had to spend it. ROI? Who knows, but if my take was a common one, probably not much.
 
 If you’re going to go to cons, go to cons where actual customers are. If you’ve segmented the market such that a key industry for you is trucking, then find out when and where the trucking industry conference is (particularly their con that is heavy on trucking/logistics technology) and get a booth there. Why? For one, you’re probably going to be the only security company there. You’re almost certainly going to be the only security company doing what you’re doing. You’re not talking to jaded industry veterans scarred by the previous shenanigans of other vendors, you’re talking to people who have a problem that you solve. You’re talking to them in their environment, which is far less intimidating than taking a mid-sized trucking company CIO to Blackhat and dropping them in the middle of the vendor floor (queue head explosion).
+
+**Exception**: Sometimes you can't avoid going to a security Con. Maybe you've taken other people's money and they expect a showing; maybe you're angling to take other people's money and those people will be at the Con and a booth with traffic is the way they assess that you're *real*. You don't have to like it, but if you're playing that game, you have to do it.
+
+If you **have** to go to a security Con, spend your money on an office/cube in the business center/hall, or if you're in a hotel, a suite where you can host prospects and customers. Rack and stack your schedule so that the people that mean the most to your business get access. There is nothing worse than trying to have a meaningful conversation, or in-depth demo, standing up in a noisy-ass vendor hall. Give people a respite from the chaos and establish a sense of intimacy (not like that) that shows you give a damn about the people on the other side of the table. That they're not just randos walking the hall. 
 
 ### Swag
 
